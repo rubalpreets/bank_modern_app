@@ -1,6 +1,6 @@
 # React.js and Tailwind CSS Website Development
 
-[Preview wbsite](https://berserkbank.netlify.app)
+[Preview website](https://berserkbank.netlify.app)
 
 ## Description
 
