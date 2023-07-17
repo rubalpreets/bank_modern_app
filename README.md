@@ -1,19 +1,19 @@
-# `React.js and Tailwind CSS Website Development`
+# React.js and Tailwind CSS Website Development
 
 [Preview wbsite](https://berserkbank.netlify.app)
 
-## `Description`
+## Description
 
 I developed a responsive website using React.js and Tailwind CSS, implementing breakpoints to ensure compatibility with various devices. The project currently includes the homepage, which serves as the foundation for further development. Although the website does not have any specific functionality implemented yet, it showcases my skills in front-end development and demonstrates my ability to create visually appealing and interactive user interfaces that adapt to different screen sizes.
 
-## `Key Technologies and Tools`
+## Key Technologies and Tools
 
 - **`React.js`**: Leveraged the React.js library for building the user interface components and managing the application's state.
 - **`Tailwind CSS`**: Utilized the Tailwind CSS framework to implement a modern and responsive design, making use of its utility classes and responsive breakpoints to adapt the layout across different devices.
 - **`HTML5 and CSS3`**: Employed modern HTML5 and CSS3 techniques to structure the webpage, provide styling beyond what was offered by Tailwind CSS, and ensure cross-browser compatibility.
 - **`Git and GitHub`**: Utilized Git for version control and GitHub for project management and collaboration.
 
-## `Key Features`
+## Key Features
 
 1. **`Responsive Design`**: Developed a mobile-first approach and implemented responsive breakpoints to ensure that the website displays seamlessly across a range of devices, including desktops, tablets, and mobile phones.
 2. **`Modern UI`**: Implemented a modern and visually appealing user interface using Tailwind CSS and custom styling, taking advantage of responsive utility classes to adjust the layout and appearance based on screen sizes.
@@ -21,7 +21,7 @@ I developed a responsive website using React.js and Tailwind CSS, implementing b
 4. **`Code Organization`**: Structured the codebase following best practices for maintainability and scalability, considering the responsive design requirements.
 5. **`Cross-Browser Compatibility`**: Ensured the website works consistently across major browsers, including Chrome, Firefox, Safari, and Edge, by applying responsive design principles and testing on different platforms.
 
-## `Future Enhancements`
+## Future Enhancements
 
 The project can be expanded by implementing additional features and functionality, such as:
 
