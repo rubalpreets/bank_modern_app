@@ -1,6 +1,6 @@
 # React.js and Tailwind CSS Website Development
 
-[Preview website](https://berserkbank.netlify.app) (Ctrl + Click)
+[View website](https://berserkbank.netlify.app) (Ctrl + Click)
 
 ## Description
 
@@ -33,4 +33,4 @@ The project can be expanded by implementing additional features and functionalit
 
 By developing this responsive website using React.js and Tailwind CSS, I have demonstrated my proficiency in front-end development, including responsive design techniques and cross-device compatibility. The project showcases my ability to create visually appealing, user-friendly interfaces that seamlessly adapt to different screen sizes, providing an optimal user experience across a wide range of devices.
 
-[Preview website](https://berserkbank.netlify.app) (Ctrl + Click)
+[View website](https://berserkbank.netlify.app) (Ctrl + Click)
